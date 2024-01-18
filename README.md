@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cgoins0125
 - 👀 I’m interested in electrical engineering and computer science
-- 🌱 I’m currently learning SQL, AWS, Java, and GIT
+- 🌱 I’m currently learning SQL, AWS, Java, and GIT, and REST API development with MuleSoft
 - 💞️ I’m looking to collaborate on learning development
 - 📫 Reach me via Github
 
